@@ -1,7 +1,7 @@
 void ordenarListaSequencial_Shellsort (int *tam, Dados* node, int *contMovimentos, int *contComparacoes){
     int i,k, h, posicao;
     Dados rg;
-
+	printf("batata");
     h = *tam;
     h = h/2;
     while (h>0){
